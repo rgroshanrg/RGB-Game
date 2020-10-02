@@ -1,37 +1,40 @@
-#result {
+#result 
+{
 	color: darkgreen;
 }
-#toptitle {
+#toptitle 
+{
 	text-align: center;
 	background-color: #5376b5;
 	color: white;
 	padding-bottom: 20px;
 	padding-top: 20px;
 }
-#navigationbb {
+#navigationbb 
+{
 	padding: 0 28%;
 }
 
-body {
+body 
+{
    margin: 0px;
    min-height: 100%;
    width: 100%;
 
 }
-#colors {
+#colors 
+{
 	width: 40%;
 	padding-left: 40px;
 	padding-top: 2%;
 
 }
-.square {
+.square 
+{
 	height: 150px;
 	float: left;
 	margin: 1%;
 	width: 150px;
 	border-radius: 15%;
 	transition-background: 0.4s;
-
 }
-
-
